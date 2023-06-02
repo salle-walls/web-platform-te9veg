@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  color: #d2d6c7;
+  background-color: #f7e6d3;
+}
+
+main {
+
+}
+
+h1 {
+  font-weight: 500;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.OthersHomeButton{
+  color: #c3846b;
+  text-align: center;
+}
+
+ul{
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+  color: #c3846b;
+  font-weight: lighter;
+}
+
+.right{
+  text-align: right;
+  padding-right: 2rem;
+}
+
